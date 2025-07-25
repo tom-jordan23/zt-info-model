@@ -1,9 +1,26 @@
-# zt-info-model
-Basic information model to support a cross-vendor Zero Trust deployment.
 
-## Intent
+---
 
-This project describes a vendor agnostic information model for a Zero Trust installation, with a focus on the underlying informa4tion model and the data relationships between conponents. This provides context for individual component owners / developers so that they can better understand how their services interact with others.
+### Cross-Pillar Overview (Markdown)
+
+
+# Cross-Pillar Integration
+
+### Cross-Pillar Integration Diagram
+
+This diagram illustrates how each CISA Zero Trust Pillar integrates with others through a shared integration infrastructure layer. It emphasizes information flow and decision-making across the architecture.
+
+Each pillar is enclosed in a subgraph and highlights:
+
+- Major internal components
+- Inputs and outputs
+- Connection to shared APIs and event brokers
+
+The Shared Integration Infrastructure enables:
+- Real-time identity and posture evaluation
+- Attribute- and risk-based access decisions
+- Coordinated alerting and response
+- Vendor-neutral event-driven orchestration
 
 ## Cross-Pillar Information Model
 
@@ -107,3 +124,10 @@ DataPDP --- SharedInfra
 DLP --- SharedInfra
 Storage --- SharedInfra
 ```
+<br><br>
+## References
+
+- [CISA Zero Trust Maturity Model v2.0 – All Pillars](https://www.cisa.gov/resources-tools/resources/zero-trust-maturity-model)
+- [NIST SP 800-207 – Zero Trust Architecture](https://csrc.nist.gov/publications/detail/sp/800-207/final)
+
+
