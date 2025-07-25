@@ -1,7 +1,5 @@
 
----
-
-### Applications & Workloads Pillar (Markdown)
+# Applications & Workloads Pillar
 
 
 This pillar ensures secure access to applications and workloads through strong access control, real-time policy evaluation, and runtime protection.

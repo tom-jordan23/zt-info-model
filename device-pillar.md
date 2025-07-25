@@ -1,6 +1,5 @@
 # Device Pillar
 
-### Device Pillar
 
 The Device pillar provides visibility and policy enforcement around the health, posture, and trustworthiness of all endpoints attempting to connect.
 

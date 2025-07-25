@@ -1,7 +1,5 @@
 # Network Pillar
 
-
-
 The Network pillar enforces granular access boundaries using dynamic segmentation and real-time policy. It treats the network as a hostile environment and minimizes implicit trust.
 
 Key Components:

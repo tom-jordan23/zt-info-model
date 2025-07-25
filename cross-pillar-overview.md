@@ -1,10 +1,4 @@
-
----
-
-### Cross-Pillar Overview (Markdown)
-
-
-# Cross-Pillar Integration
+# Cross-Pillar Overview
 
 ### Cross-Pillar Integration Diagram
 
